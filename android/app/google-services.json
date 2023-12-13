@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "992234390083",
+    "project_id": "fir-db-90228",
+    "storage_bucket": "fir-db-90228.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992234390083:android:39f5739664887c00750af6",
+        "android_client_info": {
+          "package_name": "com.example.art_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "992234390083-usjsrc9n8l70vvgplo6378p2aqrkbqpd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.art_app",
+            "certificate_hash": "31004032633c644003ee9c78ce351391e01f4fb3"
+          }
+        },
+        {
+          "client_id": "992234390083-epre1uqno4mucul3s4jo6i752l94ip2q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYo3qY5pHq9_edhYcUQS0CvW1aWJCil-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "992234390083-epre1uqno4mucul3s4jo6i752l94ip2q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "992234390083-a2oucsn205dr2pg6ljcq0ap8nnq803a6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.artApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
